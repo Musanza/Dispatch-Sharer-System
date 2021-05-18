@@ -1,0 +1,40 @@
+.masthead {
+  height: 50vh;
+  min-height: 500px;
+  background-image: url('../img/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+.separator {
+	margin-top: 50px;
+}
+
+.borderVertical {
+	border-right: 1px dashed #333;
+	height: 50px;
+	margin-left: 5px;
+}
+
+section {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.footer {
+	color: #fff;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.footer ul li {
+	list-style: square;
+	margin-bottom: 10px;
+}
+
+.footer ul li a:hover {
+	text-decoration: none;
+	font-weight: bold;
+}
